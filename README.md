@@ -1,26 +1,24 @@
 ![Signal Boost Creative Logo](https://signalboost.co.nz/wp-content/uploads/2021/04/Signal-Boost-Logo-Small.jpg)
 
-# Project Name
+# Mood Hair Studio - Website Project
 ### Project Overview
-This is where the project overview goes. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Design and build a single page website to promote services.**
+
+Mood Hair Studio is based in Drury, and went through a rebrand in 2019. After they had done this, they approached Signal Boost about creating a website to match. They only wanted a simple solution, one that listed their services while also encouraging click through to their existing booking platform.
 
 #### Design Components
-* Component One
-* Component Two
-* Component Three
+* Website design
 
 #### Technical Components
-* Component One
-* Component Two
-* Component Three
+* WordPress build
+* Performance optimised
+* Mobile responsive
 
 #### Preview Images
-![Alt Text](https://signalboost.co.nz/wp-content/uploads/2017/12/website-product-pageWEB.jpg)
-![Alt Text](https://signalboost.co.nz/wp-content/uploads/2017/12/website-product-pageWEB.jpg)
-![Alt Text](https://signalboost.co.nz/wp-content/uploads/2017/12/website-product-pageWEB.jpg)
+![Alt Text](https://signalboost.co.nz/wp-content/uploads/2020/04/Mood.jpg)
 
 #### More Information
-For full project information and to see more of my work, please head to [my website](https://signalboost.co.nz)
+For full project information and to see more of my work, please head to [my website](https://signalboost.co.nz/portfolio/website-design-mood-hair/)
 
 #### Contact Me
 If you would like to discuss this project, or if you have another project you'd like to work with me on, please feel free to [contact me.](https://signalboost.co.nz/contact/) 
