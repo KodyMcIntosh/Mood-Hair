@@ -15,7 +15,7 @@ Mood Hair Studio is based in Drury, and went through a rebrand in 2019. After th
 * Mobile responsive
 
 #### Preview Images
-![Alt Text](https://signalboost.co.nz/wp-content/uploads/2020/04/Mood.jpg)
+![Mood Hair Studio Website](https://signalboost.co.nz/wp-content/uploads/2020/04/Mood.jpg)
 
 #### More Information
 For full project information and to see more of my work, please head to [my website](https://signalboost.co.nz/portfolio/website-design-mood-hair/)
